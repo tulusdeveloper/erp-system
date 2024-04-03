@@ -28,7 +28,7 @@ export default function Home() {
           </a>
         </div>
       </div>
-      
+
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left" >
       <a
           href="/login"
@@ -43,7 +43,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-           Login to the System
+            Click here to Login to the System
           </p>
         </a>
       </div>
